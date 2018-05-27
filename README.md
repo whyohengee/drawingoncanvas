@@ -9,8 +9,8 @@ This was a great exercise that showed me a lot about painting onto the screen us
 
 You can check out it out at:
 
+[My blog post](http://yongclee.com/drawing-on-canvas/)
+
 [Codepen](https://codepen.io/whyohengee/pen/dewpLr)
 
-[Github Pages]()
-
-[Github Repo]()
+[Github Pages](https://whyohengee.github.io/drawingoncanvas/)
